@@ -13,7 +13,7 @@ This is an unofficial clone created for educational purposes only. All content a
 
 - HTML5
 - CSS3
-- Bootstrap 5
+- Bootstrap v5.02
 
 ## 📷 Preview of Adobe HomePage
 ![Screenshot](https://github.com/user-attachments/assets/35346e93-a0b6-42f2-913f-d4d398bd67e1)
